@@ -1,5 +1,4 @@
-"""
-Simple Rule-Based Chatbot"""
+"""Simple Rule-Based Chatbot"""
 
 def get_response(user_input):
     """Return a bot response based on simple keyword matching."""
