@@ -1,12 +1,5 @@
 """
-Simple Rule-Based Chatbot
---------------------------
-Demonstrates basic control flow and decision-making logic.
-The bot matches user input against predefined patterns using if-elif-else
-statements and responds accordingly. No machine learning involved —
-just simple string matching, which is the foundation many early
-"AI" chat systems (like ELIZA) were built on.
-"""
+Simple Rule-Based Chatbot"""
 
 def get_response(user_input):
     """Return a bot response based on simple keyword matching."""
